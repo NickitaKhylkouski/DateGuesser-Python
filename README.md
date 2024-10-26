@@ -138,6 +138,3 @@ Feel free to fork the repository and submit pull requests. Areas for potential i
 - Performance optimizations
 - Additional learning resources
 
-## License
-
-This project is open source and available under the MIT License.
